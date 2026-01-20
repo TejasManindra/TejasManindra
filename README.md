@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Manindra</h1>
 <h3 align="center">AI/ML Student | Building Intelligent Systems with Python</h3>
 
-- 🌱 I’m currently learning **RAG**
+- 🌱 I’m currently learning **RAG Model**
 
 - 📫 How to reach me **tejasmani2002@gmail.com**
 
