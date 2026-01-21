@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Manindra</h1>
-<h3 align="center">AI/ML Student | Building Intelligent Systems with Python</h3>
+<h3 align="center">AI/ML Student | Building Intelligent Systems Using Python</h3>
 
 - 🌱 I’m currently learning **RAG Model**
 
